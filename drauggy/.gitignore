@@ -20,7 +20,7 @@ target/
 *.ipr
 *.ini
 parentproject.iml
-mvnw.cmd
+*.cmd
 mvnw
 .mvn
 
