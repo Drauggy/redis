@@ -21,7 +21,6 @@ target/
 *.ini
 parentproject.iml
 *.cmd
-mvnw
 .mvn
 
 ### NetBeans ###
