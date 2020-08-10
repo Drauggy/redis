@@ -10,11 +10,11 @@ import org.springframework.util.Base64Utils;
 @RequiredArgsConstructor
 public class DataGenerator {
     @Value("${service.data-generator.size}")
-    private String dataSize;
+    private Integer dataSize;
 
 
     String createData() {
-        byte[] bytes = new byte[Integer.parseInt(dataSize)];
+        byte[] bytes = new byte[(dataSize)];
         ThreadLocalRandom.current().nextBytes(bytes);
         return Base64Utils.encodeToString(bytes);
     }
