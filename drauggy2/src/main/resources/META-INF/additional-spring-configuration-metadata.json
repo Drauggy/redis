@@ -1,0 +1,19 @@
+{
+  "properties": [
+    {
+      "name": "sendTopic",
+      "type": "java.lang.String",
+      "description": "Description for sendTopic."
+    },
+    {
+      "name": "receiveTopic",
+      "type": "java.lang.String",
+      "description": "Description for receiveTopic."
+    },
+    {
+      "name": "algorithm",
+      "type": "java.lang.String",
+      "description": "Description for algorithm."
+    }
+  ]
+}

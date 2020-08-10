@@ -1,0 +1,24 @@
+{
+  "properties": [
+    {
+      "name": "service.data-generator.size",
+      "type": "java.lang.String",
+      "description": "Description for service.data-generator.size."
+    },
+    {
+      "name": "algorithm",
+      "type": "java.lang.String",
+      "description": "Description for algorithm."
+    },
+    {
+      "name": "sendTopic",
+      "type": "java.lang.String",
+      "description": "Description for sendTopic."
+    },
+    {
+      "name": "receiveTopic",
+      "type": "java.lang.String",
+      "description": "Description for receiveTopic."
+    }
+  ]
+}
