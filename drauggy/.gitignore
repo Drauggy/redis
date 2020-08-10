@@ -18,9 +18,9 @@ target/
 *.iws
 *.iml
 *.ipr
-*.ini
+.ini
 parentproject.iml
-*.cmd
+.cmd
 .mvn
 
 ### NetBeans ###
