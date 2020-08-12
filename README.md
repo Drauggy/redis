@@ -1,4 +1,5 @@
 # redis test case
+![Условие задачи](https://i.ibb.co/zVqY5Gm/2020-08-12-15-14-46.png)
 
 * ## Проект собран c использованием maven (мультимодульный проект), Spring boot, Spring jedis, lombok
 * ## в проекте есть parent-module, и 3 подмодуля:
